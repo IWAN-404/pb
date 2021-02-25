@@ -11,7 +11,7 @@
 
 • pip2 install requests
 
-• git clone https://github.com/hekelpro/PB-Checker
+• git clone https://github.com/IWAN-404/pb
 
 • cd pb
 
