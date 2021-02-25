@@ -8,5 +8,5 @@ $ pkg install python2
 $ pkg install git
 $ pip2 install requests
 $ git clone https://github.com/hekelpro/PB-Checker
-$ cd PB-Checker
+$ cd pb
 $ python2 pb.py
